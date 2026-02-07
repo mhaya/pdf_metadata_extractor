@@ -1,0 +1,20 @@
+[project]
+name = "pdf-metadata-extractor"
+version = "0.1.0"
+description = "Extract metadata from PDF files using Llama via Ollama"
+requires-python = ">=3.10"
+dependencies = [
+    "pymupdf>=1.24.0",
+    "ollama>=0.3.0",
+    "pydantic>=2.0",
+]
+
+[project.scripts]
+pdf-metadata-extractor = "pdf_metadata_extractor.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[dependency-groups]
+dev = []
