@@ -102,9 +102,9 @@ PDF Metadata
 ==================================================
 
 [Document Metadata]
-  Title:        生成AI とオープンデータ
-  Author:       黒橋 禎夫
-  Journal:      情報の科学と技術
+  Title:        情報太郎とオープンデータ
+  Author:       情報 太郎
+  Journal:      情報 太郎と技術
   Volume:       74
   Number:       8
   Pages:        292～297
@@ -136,9 +136,9 @@ PDF Metadata
     "modified_at": null
   },
   "llm": {
-    "title": "生成AI とオープンデータ",
-    "author": "黒橋 禎夫",
-    "journal": "情報の科学と技術",
+    "title": "情報太郎とオープンデータ",
+    "author": "情報 太郎",
+    "journal": "情報 太郎と技術",
     "volume": "74",
     "number": "8",
     "pages": "292～297",
